@@ -1,1 +1,10 @@
-view student
+<!DOCTYPE HTML>
+<hmtl>
+    <head>
+        <title>git prac
+        </title><body><h2>add student</h2>
+        <input type=text name=student >
+        <a href="/add.html">add</a>
+    </body>
+    </head>
+</hmtl>
